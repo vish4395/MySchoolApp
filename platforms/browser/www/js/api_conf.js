@@ -5,11 +5,11 @@
  */
 
 
-var apiUrl = "http://localhost/vs/msa/new1/APP/";
+var apiUrl = "http://newai.in/msa1/APP/";
 //var apiUrl = "app/index.php/";
 
-var uploadpath = "http://localhost/vs/msa/new1/APP/upload/";
+var uploadpath = "http://newai.in/msa1/APP/upload/";
 //var uploadpath="app/upload";
 
-var document_path = "http://localhost/vs/msa/new1/APP/upload/documents/";
+var document_path = "http://newai.in/msa1/APP/upload/documents/";
 //var document_path="app/upload/documents/";
