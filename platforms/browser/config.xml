@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.eleit.myschoolapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.eleit.myschoolapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MySchoolApp</name>
     <description>
-        A blank PhoneGap app.
+        A Multi School ERP
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="Newaivirus@gmail.com" href="http://eleit.in">
+        Vishal Sharma
     </author>
     <content src="index.html" />
     <access origin="*" />
+	<icon src="icon.png" />
+	<allow-navigation href="http://*/*" />
+<allow-intent href="https://*/*" />
 </widget>

@@ -10,4 +10,6 @@
     <content src="index.html" />
     <access origin="*" />
 	<icon src="icon.png" />
+	<allow-navigation href="http://*/*" />
+<allow-intent href="https://*/*" />
 </widget>
